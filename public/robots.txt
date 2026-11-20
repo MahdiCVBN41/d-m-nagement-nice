@@ -1,0 +1,57 @@
+User-agent: Googlebot
+Allow: /
+Sitemap: https://www.nice-demenagement.fr/sitemap.xml
+
+User-agent: Bingbot
+Allow: /
+Sitemap: https://www.nice-demenagement.fr/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: OmigiliBot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: *
+Disallow: /devis/merci
+Disallow: /api/
+Disallow: /admin/
+Allow: /
+Sitemap: https://www.nice-demenagement.fr/sitemap.xml
+Host: www.nice-demenagement.fr

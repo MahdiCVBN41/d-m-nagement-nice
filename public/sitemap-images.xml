@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ============================================= -->
+  <!--  SITEMAP IMAGES — toutes images indexables    -->
+  <!--  Permet Google Images de crawler toutes les   -->
+  <!--  photos de villes / pays / illustrations      -->
+  <!-- ============================================= -->
+
+  <!-- Hero de la home -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/hero-truck.jpg</image:loc>
+      <image:title>Camion de déménagement Nice Déménagement</image:title>
+      <image:caption>Camion de déménagement Nice Déménagement sur la Côte d'Azur — déménageurs professionnels</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/cote-azur.jpg</image:loc>
+      <image:title>Côte d'Azur - panoramique Nice</image:title>
+      <image:caption>Panoramique de la Côte d'Azur depuis Nice — zone d'intervention principale</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/logo-nice-demenagement.png</image:loc>
+      <image:title>Logo Nice Déménagement</image:title>
+      <image:caption>Logo officiel de Nice Déménagement, déménageur professionnel à Nice</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Villes - image principale -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/nice</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/nice.png</image:loc>
+      <image:title>Promenade des Anglais à Nice</image:title>
+      <image:caption>Vue panoramique de la Promenade des Anglais, à Nice — zone d'intervention principale</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/paris</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/paris.jpg</image:loc>
+      <image:title>Paris - Tour Eiffel et Champ-de-Mars</image:title>
+      <image:caption>Vue de Paris, capitale française — 20 arrondissements desservis par Nice Déménagement</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/marseille</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/marseille.jpg</image:loc>
+      <image:title>Marseille - Vieux-Port et Notre-Dame de la Garde</image:title>
+      <image:caption>Vieux-Port de Marseille avec Notre-Dame de la Garde en arrière-plan</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/lyon</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/lyon.jpg</image:loc>
+      <image:title>Lyon - Presqu'île et Rhône</image:title>
+      <image:caption>Vue de Lyon Presqu'île entre Rhône et Saône — ZFE Grand Lyon</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/cannes</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/cannes.jpg</image:loc>
+      <image:title>Cannes - La Croisette</image:title>
+      <image:caption>La Croisette à Cannes — cité balnéaire de la Côte d'Azur</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/antibes</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/antibes.jpg</image:loc>
+      <image:title>Antibes - Cap d'Antibes et Juan-les-Pins</image:title>
+      <image:caption>Vieil-Antibes et Sophia-Antipolis — cité azuréenne du Cap</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/grasse</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/grasse.jpg</image:loc>
+      <image:title>Grasse - capitale mondiale du parfum</image:title>
+      <image:caption>Centre historique de Grasse, capitale mondiale du parfum</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/monaco</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/monaco.jpg</image:loc>
+      <image:title>Monaco - Rocher et Monte-Carlo</image:title>
+      <image:caption>Principauté de Monaco : Monaco-Ville, Monte-Carlo, Fontvieille</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/nantes</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/Nantes.jpg</image:loc>
+      <image:title>Nantes - Île de Nantes et Loire</image:title>
+      <image:caption>Nantes et la Loire — métropole de l'Ouest français</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/lille</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/lille.jpg</image:loc>
+      <image:title>Lille - Vieux-Lille et Grand'Place</image:title>
+      <image:caption>Vieux-Lille, cité flamande au carrefour de l'Europe</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/bordeaux</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/Bordeaux.jpg</image:loc>
+      <image:title>Bordeaux - Garonne et Place de la Bourse</image:title>
+      <image:caption>Bordeaux, métropole UNESCO sur la Garonne</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/toulouse</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/toulouse.jpg</image:loc>
+      <image:title>Toulouse - Capitole et Ville Rose</image:title>
+      <image:caption>Toulouse la Ville Rose, métropole occitane de l'aérospatial</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/montpellier</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/montpellier.jpg</image:loc>
+      <image:title>Montpellier - Écusson et Place de la Comédie</image:title>
+      <image:caption>Montpellier, métropole languedocienne sur la Méditerranée</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/strasbourg</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/Strasbourg.jpg</image:loc>
+      <image:title>Strasbourg - Petite France et Cathédrale</image:title>
+      <image:caption>Strasbourg, métropole alsacienne frontalière sur l'Ill — centre UNESCO</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/grenoble</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/grenoble.jpg</image:loc>
+      <image:title>Grenoble - cuvette alpine et Bastille</image:title>
+      <image:caption>Grenoble, métropole alpine des Alpes françaises</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Pays - drapeaux et symboles -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/italie</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/italie.jpg</image:loc>
+      <image:title>Italie - drapeau italien et monuments</image:title>
+      <image:caption>Drapeau italien — déménagement international vers Milan, Rome, Turin</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/allemagne</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/allemagne.jpg</image:loc>
+      <image:title>Allemagne - drapeau allemand et Berlin</image:title>
+      <image:caption>Drapeau allemand — déménagement international vers Munich, Berlin, Francfort</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/suisse</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/suisse.jpg</image:loc>
+      <image:title>Suisse - drapeau suisse et Alpes</image:title>
+      <image:caption>Drapeau suisse — déménagement international vers Genève, Lausanne, Zurich</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/belgique</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/belgique.jpg</image:loc>
+      <image:title>Belgique - drapeau belge et Bruxelles</image:title>
+      <image:caption>Drapeau belge — déménagement international vers Bruxelles, Anvers, Liège</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/espagne</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/spain.jpg</image:loc>
+      <image:title>Espagne - drapeau espagnol et Barcelone</image:title>
+      <image:caption>Drapeau espagnol — déménagement international vers Barcelone, Madrid, Valence</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/luxembourg</loc>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/luxembourg.jpg</image:loc>
+      <image:title>Luxembourg - drapeau luxembourgeois et Luxembourg-Ville</image:title>
+      <image:caption>Drapeau luxembourgeois — déménagement international vers Luxembourg-Ville</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ============================================= -->
+  <!--  6 PAYS EUROPÉENS (déménagement international) -->
+  <!--  Priorité basée sur volume de recherche +      -->
+  <!--  proximité frontalière avec la France           -->
+  <!-- ============================================= -->
+
+  <!-- ITALIE : frontalière de Nice — volume le plus élevé -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/italie</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/italie.jpg</image:loc>
+      <image:title>Déménagement vers l'Italie - Milan, Rome, Turin, Gênes</image:title>
+      <image:caption>Déménagement international vers l'Italie : Milan, Rome, Turin, Gênes, Naples, Florence, Bologne, Vérone, Bari, Sicile, Sardaigne</image:caption>
+    </image:image>
+  </url>
+
+  <!-- SUISSE : frontalière (Alpes) — fort volume déménagement expat -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/suisse</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/suisse.jpg</image:loc>
+      <image:title>Déménagement vers la Suisse - Genève, Lausanne, Zurich, Bâle</image:title>
+      <image:caption>Déménagement international vers la Suisse : Genève, Lausanne, Zurich, Bâle, Berne, Lucerne, Montreux, Lugano, Vevey, Fribourg</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ESPAGNE : frontalière Pyrénées — volume modéré -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/espagne</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/spain.jpg</image:loc>
+      <image:title>Déménagement vers l'Espagne - Barcelone, Madrid, Valence</image:title>
+      <image:caption>Déménagement international vers l'Espagne : Barcelone, Madrid, Valence, Séville, Bilbao, Malaga, Saragosse, Grenade, Alicante, Tarragone</image:caption>
+    </image:image>
+  </url>
+
+  <!-- BELGIQUE : frontalière Nord — volume modéré -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/belgique</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/belgique.jpg</image:loc>
+      <image:title>Déménagement vers la Belgique - Bruxelles, Anvers, Liège, Gand</image:title>
+      <image:caption>Déménagement international vers la Belgique : Bruxelles, Anvers, Liège, Gand, Charleroi, Bruges, Namur, Louvain, Mons, Ostende</image:caption>
+    </image:image>
+  </url>
+
+  <!-- LUXEMBOURG : petite taille mais fort pouvoir d'achat — expatriés -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/luxembourg</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/luxembourg.jpg</image:loc>
+      <image:title>Déménagement vers le Luxembourg - Luxembourg-Ville, Esch-sur-Alzette</image:title>
+      <image:caption>Déménagement international vers le Luxembourg : Luxembourg-Ville, Esch-sur-Alzette, Differdange, Dudelange, Echternach, Remich</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ALLEMANGE : distant mais fort volume France↔DE (expat travail) -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays/allemagne</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/allemagne.jpg</image:loc>
+      <image:title>Déménagement vers l'Allemagne - Munich, Berlin, Francfort, Hambourg</image:title>
+      <image:caption>Déménagement international vers l'Allemagne : Munich, Berlin, Francfort, Hambourg, Cologne, Stuttgart, Düsseldorf, Leipzig, Hanovre, Nuremberg</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

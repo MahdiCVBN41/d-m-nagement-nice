@@ -1,0 +1,89 @@
+# robots.txt – Nice Déménagement (https://www.nice-demenagement.fr)
+# Généré le 2026-07-28
+
+# === Moteurs de recherche : autorisation globale ===
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /*.json$
+Disallow: /*.pdf$
+Allow: /assets/
+Allow: /sitemap.xml
+Allow: /robots.txt
+
+# === Google : autorisation explicite ===
+User-agent: Googlebot
+Allow: /
+Allow: /assets/
+Disallow: /api/
+Disallow: /admin/
+
+User-agent: Googlebot-Image
+Allow: /
+Allow: /assets/
+
+# === Bing : autorisation explicite ===
+User-agent: Bingbot
+Allow: /
+Allow: /assets/
+Disallow: /api/
+Disallow: /admin/
+
+User-agent: MSNBot
+Allow: /
+
+# === DuckDuckGo ===
+User-agent: DuckDuckBot
+Allow: /
+
+# === Yandex (Russie) ===
+User-agent: YandexBot
+Allow: /
+Disallow: /api/
+
+# === Baidu (Chine) ===
+User-agent: Baiduspider
+Allow: /
+Disallow: /api/
+
+# === Apple Siri / Suggestions ===
+User-agent: Applebot
+Allow: /
+
+# === Bots d'IA / LLM – contenu non indexable ===
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+# === Sitemap(s) ===
+Sitemap: https://www.nice-demenagement.fr/sitemap.xml

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ============================================= -->
+  <!--  15 VILLES FRANÇAISES                          -->
+  <!--  Priorité basée sur volume de recherche +      -->
+  <!--  proximité géographique avec Nice (siège)      -->
+  <!-- ============================================= -->
+
+  <!-- NICE : ville siège — priorité maximale -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/nice</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/nice.png</image:loc>
+      <image:title>Déménagement à Nice - Promenade des Anglais</image:title>
+      <image:caption>Nice Déménagement intervient dans tous les quartiers de Nice : Vieux-Nice, Cimiez, Mont Boron, Cimiez, Pasteur</image:caption>
+      <image:license>https://www.nice-demenagement.fr/mentions-legales</image:license>
+    </image:image>
+  </url>
+
+  <!-- PARIS : volume maximal — forte concurrence SEO -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/paris</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/paris.jpg</image:loc>
+      <image:title>Déménagement à Paris - capitale française</image:title>
+      <image:caption>Déménagement Paris intra-muros et région parisienne : 20 arrondissements, La Défense, Hauts-de-Seine</image:caption>
+    </image:image>
+  </url>
+
+  <!-- MARSEILLE : 2e ville France, proche de Nice (200km A50) -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/marseille</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/marseille.jpg</image:loc>
+      <image:title>Déménagement à Marseille - Cité Phocéenne</image:title>
+      <image:caption>Déménagement Marseille : Le Panier, La Joliette, Castellane, Roucas-Blanc — ZFE et Crit'Air 2</image:caption>
+    </image:image>
+  </url>
+
+  <!-- LYON : 3e ville France, proche Suisse -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/lyon</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/lyon.jpg</image:loc>
+      <image:title>Déménagement à Lyon - Presqu'île et Croix-Rousse</image:title>
+      <image:caption>Déménagement Lyon : Presqu'île, Croix-Rousse, Part-Dieu, Confluence, Vaise, Villeurbanne — ZFE Grand Lyon</image:caption>
+    </image:image>
+  </url>
+
+  <!-- VILLES LOCALES CÔTE D'AZUR (proches du siège) -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/cannes</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/cannes.jpg</image:loc>
+      <image:title>Déménagement à Cannes - Croisette et Suquet</image:title>
+      <image:caption>Déménagement Cannes : Suquet, Croisette, Palm Beach, La Bocca, Le Cannet, Mandelieu</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/antibes</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/antibes.jpg</image:loc>
+      <image:title>Déménagement à Antibes - Cap d'Antibes et Juan-les-Pins</image:title>
+      <image:caption>Déménagement Antibes : Vieil-Antibes, Sophia-Antipolis, Juan-les-Pins, Salis, Ponteil</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/grasse</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/grasse.jpg</image:loc>
+      <image:title>Déménagement à Grasse - capitale du parfum</image:title>
+      <image:caption>Déménagement Grasse : Centre-Ville, La Bourelle, Saint-Claude, Clausonnes — pentes et ruelles historiques</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/monaco</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/monaco.jpg</image:loc>
+      <image:title>Déménagement à Monaco - principauté et Monte-Carlo</image:title>
+      <image:caption>Déménagement Monaco : Monaco-Ville, La Condamine, Monte-Carlo, Larvotto, Fontvieille — législation monégasque</image:caption>
+    </image:image>
+  </url>
+
+  <!-- GRANDES MÉTROPOLES RÉGIONALES -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/toulouse</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/toulouse.jpg</image:loc>
+      <image:title>Déménagement à Toulouse - la Ville Rose</image:title>
+      <image:caption>Déménagement Toulouse : Capitole, Saint-Cyprien, Les Chalets, Mirmont, Saint-Sernin, Busca, Rangeueil</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/bordeaux</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/Bordeaux.jpg</image:loc>
+      <image:title>Déménagement à Bordeaux - Garonne et Chartrons</image:title>
+      <image:caption>Déménagement Bordeaux : Chartrons, Saint-Michel, Bastide, Saint-Seurin, Caudéran — centre UNESCO</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/nantes</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/Nantes.jpg</image:loc>
+      <image:title>Déménagement à Nantes - Loire et Île de Nantes</image:title>
+      <image:caption>Déménagement Nantes : Centre-Ville, Île de Nantes, Talensanto, Malakoff, Bellevue, Orvault</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/lille</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/lille.jpg</image:loc>
+      <image:title>Déménagement à Lille - Vieux-Lille et Wazemmes</image:title>
+      <image:caption>Déménagement Lille : Vieux-Lille, Lille-Centre, Wazemmes, Moulins, Fives, Lambersart</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/strasbourg</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/Strasbourg.jpg</image:loc>
+      <image:title>Déménagement à Strasbourg - Petite France et Neudorf</image:title>
+      <image:caption>Déménagement Strasbourg : Petite France, Neudorf, Cronenbourg, Meinau, Koenigshoffen — ZFE Euro-métropole</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/montpellier</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/montpellier.jpg</image:loc>
+      <image:title>Déménagement à Montpellier - Écusson et Antigone</image:title>
+      <image:caption>Déménagement Montpellier : Écusson, Antigone, Richter, Les Arceaux, Port-Marianne, Odysseum</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/ville/grenoble</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://www.nice-demenagement.fr/assets/grenoble.jpg</image:loc>
+      <image:title>Déménagement à Grenoble - cuvette alpine</image:title>
+      <image:caption>Déménagement Grenoble : Hyper-centre, Bonne, Ampère, Saint-Laurent, Exposition-Bajatière — ZFE Grenoble</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ============================================= -->
+  <!--  PAGES PRINCIPALES & STATIQUES                -->
+  <!--  Priorité 1.0 → 0.30 selon importance SEO      -->
+  <!-- ============================================= -->
+
+  <!-- Accueil : priorité maximale, refresh hebdo -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.nice-demenagement.fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.nice-demenagement.fr/"/>
+  </url>
+
+  <!-- Page Services (index) : forte intention commerciale -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/services</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Sous-services : intention transactionnelle claire -->
+  
+
+  <!-- Garde-meubles : service distinct, bonne longue traîne -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/garde-meubles</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Index des villes et pays : hubs de navigation -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/villes</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/pays</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Page Devis : page de conversion, à indexer pour SEO commercial -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/devis</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Contact : NAP local, moteur Local Pack -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/contact</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Pages juridiques : faible intent SEO mais utiles E-E-A-T -->
+  <url>
+    <loc>https://www.nice-demenagement.fr/mentions-legales</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/cgv</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+  <url>
+    <loc>https://www.nice-demenagement.fr/politique-confidentialite</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+
+</urlset>
